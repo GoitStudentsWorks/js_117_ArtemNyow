@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/NovelWay/",
+    "build": "vite build --base=/js_117_ArtemNyow/",
     "preview": "vite preview"
   },
   "devDependencies": {
